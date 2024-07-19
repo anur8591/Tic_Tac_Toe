@@ -1,2 +1,2 @@
 # Tic_Tac_Toe
-This game is created by using: HTML, CSS andd JavaScript 
+This game is created by using: HTML, CSS and JavaScript 
